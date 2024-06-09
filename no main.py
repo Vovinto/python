@@ -65,12 +65,13 @@
 #         if len(lst) != 1:
 #             lst.remove(max(lst))
 #     lst4 = lst4[::-1]
-#     print(lst4)
-#
 # else:
 #     for i in range(num):
 #         lst4.append(max(lst))
 #         if len(lst) != 1:
 #             lst.remove(max(lst))
-#     lst4 = lst4[::-1]
+    lst4 = lst4[::-1]
 #     print(lst4)
+print("Hello")
+
+
